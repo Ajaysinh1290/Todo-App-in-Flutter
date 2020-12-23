@@ -17,10 +17,10 @@ With the help of this application you can manage your daily tasks.
 
 # Screen Shots
 
-   <img src="/screenshots/screenshot1.png">
-   <img src="/screenshots/screenshot2.png"> 
-   <img src="/screenshots/screenshot3.png"> 
-   <img src="/screenshots/screenshot4.png"> 
+   <img src="/screenshots/screenshot1.jpg">
+   <img src="/screenshots/screenshot2.jpg"> 
+   <img src="/screenshots/screenshot3.jpg"> 
+   <img src="/screenshots/screenshot4.jpg"> 
 
 # Created by
 
