@@ -152,11 +152,15 @@ class _HomePageState extends State<HomePage> {
                       validator: (value){
                         return value.isEmpty?"Required *":null;
                       },
+                      style: TextStyle(
+                        fontSize: 20,
+                        fontWeight: FontWeight.bold
+                      ),
                       decoration: InputDecoration(
                           hintText: "title",
                           hintStyle: TextStyle(
                             color: Colors.grey,
-                            fontSize: 18,
+                            fontSize: 20,
                           ),
                           focusedBorder: UnderlineInputBorder(
                               borderSide: BorderSide(
