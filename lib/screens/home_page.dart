@@ -468,7 +468,7 @@ class _HomePageState extends State<HomePage> {
                   Text(
 
                         getDiff(),
-                    style: TextStyle(
+                        style: TextStyle(
                         color: Colors.white,
                         fontWeight: FontWeight.bold,
                         fontSize: 30
